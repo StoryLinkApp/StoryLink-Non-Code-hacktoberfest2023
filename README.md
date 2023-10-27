@@ -51,7 +51,7 @@
 
 ## Style Guidelines
 
-- Follow the coding style and guidelines specified in the project.
+- Follow the style and guidelines specified in the project.
 
 
 ## Licensing
